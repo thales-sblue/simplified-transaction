@@ -22,7 +22,7 @@ POST /transferencias
 }
 
 🏗 Arquitetura
-Camadas claras (Controller > Service > Repository)
+Camadas claras (Controller - Infrastructure - Services)
 Padrão Strategy para tipos de usuário
 Tratamento de erros customizado
 Cache para consultas frequentes
