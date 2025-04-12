@@ -11,7 +11,7 @@ Autorização de transações (mock)
 Notificações assíncronas (mock)
 
 🛠 Tech Stack
-Java 17 | Spring Boot | JPA/Hibernate | PostgreSQL | Docker | JUnit/Mockito
+Java 21 | Spring Boot | JPA/Hibernate | PostgreSQL | Docker | JUnit/Mockito
 
 ⚡ Endpoint Principal
 POST /transferencias
